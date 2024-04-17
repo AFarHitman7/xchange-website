@@ -12,11 +12,11 @@ Explaining the working of project
 Embed video of project demo
 
 ## Features
-> Item Listings: Users can list items they no longer need for sale or donation, including details such as item description, condition, and price.
-> Search and Browse: Users can search for specific items or browse through categories to find items of interest.
-> Messaging System: Facilitates communication between buyers and sellers to arrange transactions and address any queries.
-> User Profiles: Each user has a profile where they can manage their listings, track transactions, and view feedback from other users.
-> Safety Measures: Encourages safe and secure transactions by providing tips for meeting in public places and exercising caution when sharing personal information.
+- Item Listings: Users can list items they no longer need for sale or donation, including details such as item description, condition, and price.
+- Search and Browse: Users can search for specific items or browse through categories to find items of interest.
+- Messaging System: Facilitates communication between buyers and sellers to arrange transactions and address any queries.
+- User Profiles: Each user has a profile where they can manage their listings, track transactions, and view feedback from other users.
+- Safety Measures: Encourages safe and secure transactions by providing tips for meeting in public places and exercising caution when sharing personal information.
 
 ## Libraries used
 HTML/CSS/JS
