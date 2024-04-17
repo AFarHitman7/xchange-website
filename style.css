@@ -61,7 +61,7 @@ p{
 }
 .btn{
     display: inline-block;
-    background: #ff523b;
+    background: #F9B800;
     color: white;
     padding: 8px 30px;
     margin: 30px 0;
@@ -72,7 +72,7 @@ p{
     background: #563434;
 }
 .header{
-    background: radial-gradient(#fff,#ffd6d6);
+    background: radial-gradient(#fff,#F9B80030)
 }
 .header .row{
     margin-top: 70px;
@@ -113,7 +113,7 @@ p{
 }
 .title::after{
     content: '';
-    background: #ff523b;
+    background: #F9B800;
     width: 80px;
     height: 5px;
     border-radius: 5px;
@@ -130,17 +130,22 @@ h4{
     font-size: 14px;
 }
 .rating .fa{
-    color: #ff523b;
+    color: #F9B800;
 }
 .col-4:hover{
     transform: translateY(-5px);
 }
 /* Offer */
 .offer{
-    background: radial-gradient(#fff, #ffd6d6);
+    background: radial-gradient(#fff, #F9B80030);
     margin-top: 80px;
     padding: 30px 0;
 }
+
+.offer2{
+    background: none;
+}
+
 .col-2 .offer-img{
     padding: 50px;
 }
@@ -169,7 +174,7 @@ small{
 }
 .fa.fa-quote-left{
     font-size: 34px;
-    color: #ff523b;
+    color: #F9B800;
 }
 .col-3 p{
     font-size: 12px;
@@ -259,7 +264,7 @@ ul{
     margin: 100px auto 50px;
 }
 select{
-    border: 1px solid #ff523b;
+    border: 1px solid #F9B800;
     padding: 5px;
 }
 select:focus{
@@ -270,7 +275,7 @@ select:focus{
 }
 .page-btn span{
     display: inline-block;
-    border: 1px solid #ff523b;
+    border: 1px solid #F9B800;
     margin-left: 10px;
     width: 40px;
     height: 40px;
@@ -279,7 +284,7 @@ select:focus{
     cursor: pointer;
 }
 .page-btn span:hover{
-    background: #ff523b;
+    background: #F9B800;
     color: white;
 }
 
@@ -309,14 +314,14 @@ select:focus{
     padding-left: 10px;
     font-size: 20px;
     margin-left: 10px;
-    border: 1px solid #ff523b;
+    border: 1px solid #F9B800;
     margin-right: 10px;
 }
 input:focus{
     outline: none;
 }
 .single-product .fa{
-    color: #ff523b;
+    color: #F9B800;
     margin-left: 10px;
 }
 .small-img-row{
@@ -344,7 +349,7 @@ th{
     text-align: left;
     padding: 5px;
     color: #fff;
-    background: #ff523b;
+    background: #F9B800;
     font-weight: normal;
 }
 td{
@@ -356,7 +361,7 @@ td input{
     padding: 5px;
 }
 td a{
-    color: #ff523b;
+    color: #F9B800;
     font-size: 12px;
 }
 td img{
@@ -369,7 +374,7 @@ td img{
     justify-content: flex-end;
 }
 .total-price table{
-    border-top: 3px solid #ff523b;
+    border-top: 3px solid #F9B800;
     width: 100%;
     max-width: 400px;
 }
@@ -383,7 +388,7 @@ th:last-child{
 /* Account page */
 .account-page{
     padding: 50px 0;
-    background: radial-gradient(#fff, #ffd6d6);
+    background: radial-gradient(#fff, #F9B80030);
 }
 .form-container{
     background: #fff;
@@ -442,7 +447,7 @@ form a{
 #Indicator{
     width: 100px;
     border: none;
-    background: #ff523b;
+    background: #F9B800;
     height: 3px;
     margin-top: 8px;
     transform: translateX(100px);
