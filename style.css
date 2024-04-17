@@ -68,6 +68,24 @@ p{
     float: left;
 }
 
+.box_container{
+    display: flex;
+    flex-direction: row;
+    gap: 3rem;
+    margin-top: 3rem;
+    justify-content: center;
+}
+
+.vision{
+    gap: 0.5rem;
+    display: flex;
+    flex-direction: column;
+    min-width: 18rem;
+    padding: 1rem;
+    border: 3px solid #F9B800;
+    border-radius: 2rem;
+}
+
 .btn{
     display: inline-block;
     background: #F9B800;
@@ -149,6 +167,10 @@ h4{
     padding: 30px 0;
 }
 
+.offer1{
+    padding: 60px 0;
+}
+
 .offer2{
     background: none;
 }
@@ -158,6 +180,10 @@ h4{
 }
 small{
     color: #555;
+}
+
+.text_center{
+    text-align: center;
 }
 
 /* Testimonial */
@@ -234,7 +260,7 @@ small{
     text-align: center;
 }
 .footer-col-2 img{
-    width: 180px;
+    width: 50px;
     margin-bottom: 20px;
 }
 .footer-col-3, .footer-col-4{
