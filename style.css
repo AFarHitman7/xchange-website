@@ -517,6 +517,10 @@ form a{
         display: block;
         cursor: pointer;
     }
+
+    .box_container{
+        flex-direction: column;
+    }
 }
 
 /* Media query for 600 screen size */
