@@ -63,6 +63,11 @@ p{
 .col-2 h2{
     color: #F9B800;
 }
+.black{
+    color: #333;
+    float: left;
+}
+
 .btn{
     display: inline-block;
     background: #F9B800;
@@ -78,9 +83,7 @@ p{
 .header{
     background: radial-gradient(#fff,#F9B80030)
 }
-.header .row{
-    margin-top: 70px;
-}
+
 .categories{
     margin: 70px 0;
 }
