@@ -127,6 +127,7 @@ p{
     transition: transform 0.5s;
 }
 .col-4 img{
+    min-height: 316px;
     width: 100%;
 }
 .title{
@@ -219,6 +220,8 @@ small{
     color: #555;
     font-size: 16px;
 }
+
+
 /* Brands */
 .brands{
     margin: 100px auto;
@@ -486,6 +489,8 @@ form a{
     transform: translateX(100px);
     transition: transform 1s;
 }
+
+
 
 /* Media query for menu */
 @media only screen and (max-width: 800px){
